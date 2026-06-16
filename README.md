@@ -145,3 +145,5 @@ url-spam-detection/
 Senior Product Owner | Agile Delivery | Data & AI
 
 GitHub: https://github.com/anaisaponte-GitH
+
+LinkedIn: https://linkedin.com/in/anaisaponte
